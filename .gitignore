@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*/__pycache__/
+
+db.sqlite3
+
+my_app/**/migrations/
+
+my_app/__init__.py
+zoolito/__init__.py
